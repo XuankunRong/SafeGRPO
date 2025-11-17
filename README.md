@@ -1,6 +1,14 @@
 <h1 align="center">SafeGRPO: Self-Rewarded Multimodal Safety Alignment via Rule-Governed Policy Optimization</h1>
 
-<p align="center"><em><strong>Xuankun Rong, Wenke Huang, Tingfeng Wang, Daiguo Zhou, Bo Du, Mang Ye*</strong></em></p>
+<p align="center"><em><strong>Xuankun Rong, Wenke Huang, Tingfeng Wang, Daiguo Zhou, Bo Du, Mang Ye</strong></em></p>
+
+<p align="center">
+<a href=""><img src="https://img.shields.io/badge/arXiv.svg" alt="arXiv Badge"></a>
+<a href="https://huggingface.co/datasets/XuankunRong/SafeTag-VL-3K">
+  <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-blue">
+</a>
+<a href="https://github.com/XuankunRong/SafeGRPO"><img src="https://img.shields.io/github/stars/XuankunRong/SafeGRPO?style=social" alt="GitHub stars"></a>
+</p>
 
 <div align="center">
 <img alt="method" src="assets/SafeGRPO.png">
