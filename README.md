@@ -3,7 +3,7 @@
 <p align="center"><em><strong>Xuankun Rong, Wenke Huang, Tingfeng Wang, Daiguo Zhou, Bo Du, Mang Ye</strong></em></p>
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/arXiv.svg" alt="arXiv Badge"></a>
+<a href="https://arxiv.org/abs/2511.12982"><img src="https://img.shields.io/badge/arXiv-2511.12982-b31b1b.svg" alt="arXiv Badge"></a>
 <a href="https://huggingface.co/datasets/XuankunRong/SafeTag-VL-3K">
   <img src="https://img.shields.io/badge/🤗%20HuggingFace-Datasets-blue">
 </a>
@@ -23,4 +23,10 @@ Multimodal large language models (MLLMs) have demonstrated impressive reasoning 
 Please kindly cite this paper in your publications if it helps your research:
 
 ```bibtex
+@article{rong2025safegrpo,
+  title={SafeGRPO: Self-Rewarded Multimodal Safety Alignment via Rule-Governed Policy Optimization},
+  author={Rong, Xuankun and Huang, Wenke and Wang, Tingfeng and Zhou, Daiguo and Du, Bo and Ye, Mang},
+  journal={arXiv preprint arXiv:2511.12982},
+  year={2025}
+}
 ```
